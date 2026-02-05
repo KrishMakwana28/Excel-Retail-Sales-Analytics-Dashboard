@@ -90,7 +90,7 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 
 ## 📸 Dashboard Preview
 
-| Sales Overview | Salesperson Performance | Interactive Dashboard |
+| Discount & State-wise Analysis Dashboard | Salesperson Performance | Retail Sales Overview Dashboard |
 |---------------|------------------------|----------------------|
 | ![](Dashboard_1.png) | ![](Dashboard_2.png) | ![](Dashboard_3.png) |
 
