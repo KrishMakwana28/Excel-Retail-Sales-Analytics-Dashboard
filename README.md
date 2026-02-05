@@ -10,7 +10,7 @@ The dashboards help stakeholders understand **sales performance across regions, 
 ## 📊 Dashboards Created
 
 ### 1️⃣ Retail Sales Overview Dashboard
-  Dashboard_1.png
+
 **Key Metrics & Visuals:**
 
 * Total Sales
@@ -86,3 +86,10 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 👉 **View the LinkedIn post here:**
 
 ---
+
+## 📸 Dashboard Preview
+
+| Sales Overview | Salesperson Performance | Interactive Dashboard |
+|---------------|------------------------|----------------------|
+| ![](Dashboard_1.png) | ![](Dashboard_2.png) | ![](Dashboard_3.png) |
+
