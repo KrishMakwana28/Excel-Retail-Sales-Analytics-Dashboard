@@ -86,7 +86,7 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 
 👉 **View the LinkedIn post here:**
 
----
+--->
 
 ## 📸 Dashboard Preview
 
@@ -94,5 +94,13 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 |---------------|------------------------|----------------------|
 | ![](Dashboard_1.png) | ![](Dashboard_2.png) | ![](Dashboard_3.png) |
 
+## 👤 Author
 
+**Krish Makwana**  
+📊 Data Science-Analytics | Excel | SQL | Python  
+🔗 GitHub: https://www.linkedin.com/in/krish-makwana-58ab64374/
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
 
