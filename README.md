@@ -10,7 +10,7 @@ The dashboards help stakeholders understand **sales performance across regions, 
 ## 📊 Dashboards Created
 
 ### 1️⃣ Retail Sales Overview Dashboard
-
+  Dashboard_1.png
 **Key Metrics & Visuals:**
 
 * Total Sales
