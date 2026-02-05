@@ -64,6 +64,7 @@ Analyzes the impact of discounts on sales and highlights geographically strong m
 * Microsoft Excel
 * Pivot Tables & Pivot Charts
 * Slicers & Filters
+* Map Chart
 * Data Cleaning & Formatting
 * KPI Identification
 * Dashboard Design & Data Storytelling
@@ -92,4 +93,6 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 | Sales Overview | Salesperson Performance | Interactive Dashboard |
 |---------------|------------------------|----------------------|
 | ![](Dashboard_1.png) | ![](Dashboard_2.png) | ![](Dashboard_3.png) |
+
+
 
