@@ -86,7 +86,7 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 
 👉 **View the LinkedIn post here:**
 
---->
+--->https://www.linkedin.com/posts/krish-makwana-58ab64374_excel-exceldashboard-datascience-activity-7425395539497893889-1Qym?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4SDoB5RKus0IjrjxH2XoHrWA_8rtyLCY
 
 ## 📸 Dashboard Preview
 
