@@ -98,7 +98,7 @@ This project has been shared on LinkedIn, showcasing the dashboards, visualizati
 
 **Krish Makwana**  
 📊 Data Science-Analytics | Excel | SQL | Python  
-🔗 GitHub: https://www.linkedin.com/in/krish-makwana-58ab64374/
+🔗 linkedin: https://www.linkedin.com/in/krish-makwana-58ab64374/
 
 ---
 
